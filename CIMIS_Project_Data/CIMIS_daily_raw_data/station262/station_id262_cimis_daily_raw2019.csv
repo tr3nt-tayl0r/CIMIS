@@ -1,0 +1,2 @@
+Date,Julian,Station,Standard,ZipCodes,Scope,DayAirTmpAvg.Value,DayAirTmpMax.Value,DayAirTmpMin.Value,DayDewPnt.Value,DayEto.Value,DayPrecip.Value,DayRelHumAvg.Value,DayRelHumMax.Value,DayRelHumMin.Value,DaySoilTmpAvg.Value,DaySolRadAvg.Value,DayVapPresAvg.Value,DayWindRun.Value,DayWindSpdAvg.Value
+2019-12-31,365,262,metric,"95240, 95236, 95227, 95237, 95252, 95212, 95215",daily,8.5,15.1,1.1,5.4,0,1.2,81,94,94,8.8,106,0.9,236.6,2.7
